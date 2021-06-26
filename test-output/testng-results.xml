@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-24T22:01:27 IST" name="Default suite" finished-at="2021-06-24T22:01:42 IST" duration-ms="14838">
+    <groups>
+    </groups>
+    <test started-at="2021-06-24T22:01:27 IST" name="Default test" finished-at="2021-06-24T22:01:42 IST" duration-ms="14838">
+      <class name="testcases.DashboardTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.DashboardTest@3b07a0d6]" started-at="2021-06-24T22:01:27 IST" name="setup" finished-at="2021-06-24T22:01:31 IST" duration-ms="4086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickProduct_catalog()[pri:1, instance:testcases.DashboardTest@3b07a0d6]" started-at="2021-06-24T22:01:31 IST" name="clickProduct_catalog" finished-at="2021-06-24T22:01:42 IST" duration-ms="10064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickProduct_catalog -->
+        <test-method is-config="true" signature="kill()[pri:0, instance:testcases.DashboardTest@3b07a0d6]" started-at="2021-06-24T22:01:42 IST" name="kill" finished-at="2021-06-24T22:01:42 IST" duration-ms="654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kill -->
+      </class> <!-- testcases.DashboardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
